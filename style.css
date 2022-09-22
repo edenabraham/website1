@@ -1,0 +1,16 @@
+p{
+    border-color: brown;
+    padding: 20px;
+}
+.centered{
+    position: absolute;
+    top: 22.5%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-style: solid;
+    border-color: rgb(15, 66, 15);
+    font-size: xx-large;
+    background-color: rgb(15, 66, 15);
+    color:blanchedalmond
+}
+
