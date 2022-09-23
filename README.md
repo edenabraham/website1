@@ -8,3 +8,4 @@ Capstone 1 In this project i used the skills i learned from HTML,CSS, and Bootst
 
 >>>>>>> 84055b6 (readme description)
 
+<img src="images/Capture.PNG">
