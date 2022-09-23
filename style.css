@@ -1,10 +1,11 @@
 p{
+    border-style: ridge;
     border-color: brown;
     padding: 20px;
 }
 .centered{
     position: absolute;
-    top: 22.5%;
+    top: 22.4%;
     left: 50%;
     transform: translate(-50%, -50%);
     border-style: solid;
@@ -15,5 +16,18 @@ p{
 }
 h4{ 
     text-align: center;
+    border-style: ridge;
+    border-color: brown;
 }
 
+
+header {
+    text-align: center;
+  }
+
+  body{
+    font-family: sans-serif;
+  }
+ 
+
+  
